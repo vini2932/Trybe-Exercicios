@@ -53,3 +53,4 @@ Exercicios em shell script
 
 27-Liste todos os arquivos que terminem com tbt ou txt. 
 
+28-Acesse o manual do comando ls. 
